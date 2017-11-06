@@ -18,3 +18,16 @@
 /home/matteo/Scrivania/Comparatore/obj/Debug/netcoreapp2.0/csharp.AssemblyInfo.cs
 /home/matteo/Scrivania/Comparatore/obj/Debug/netcoreapp2.0/csharp.dll
 /home/matteo/Scrivania/Comparatore/obj/Debug/netcoreapp2.0/csharp.pdb
+C:\Users\LORENZO.MALFERRARI\Desktop\StrategyComparator\obj\Debug\netcoreapp2.0\csharp.dll
+C:\Users\LORENZO.MALFERRARI\Desktop\StrategyComparator\obj\Debug\netcoreapp2.0\csharp.pdb
+C:\Users\raffaele.balzani\Downloads\strategy-coparator-lorenzomalferrari-master\obj\Debug\netcoreapp2.0\csharp.csprojResolveAssemblyReference.cache
+C:\Users\raffaele.balzani\Downloads\strategy-coparator-lorenzomalferrari-master\obj\Debug\netcoreapp2.0\csharp.csproj.CoreCompileInputs.cache
+C:\Users\raffaele.balzani\Downloads\strategy-coparator-lorenzomalferrari-master\obj\Debug\netcoreapp2.0\csharp.AssemblyInfoInputs.cache
+C:\Users\raffaele.balzani\Downloads\strategy-coparator-lorenzomalferrari-master\obj\Debug\netcoreapp2.0\csharp.AssemblyInfo.cs
+C:\Users\raffaele.balzani\Downloads\strategy-coparator-lorenzomalferrari-master\obj\Debug\netcoreapp2.0\csharp.dll
+C:\Users\raffaele.balzani\Downloads\strategy-coparator-lorenzomalferrari-master\obj\Debug\netcoreapp2.0\csharp.pdb
+C:\Users\raffaele.balzani\Downloads\strategy-coparator-lorenzomalferrari-master\bin\Debug\netcoreapp2.0\csharp.deps.json
+C:\Users\raffaele.balzani\Downloads\strategy-coparator-lorenzomalferrari-master\bin\Debug\netcoreapp2.0\csharp.runtimeconfig.json
+C:\Users\raffaele.balzani\Downloads\strategy-coparator-lorenzomalferrari-master\bin\Debug\netcoreapp2.0\csharp.runtimeconfig.dev.json
+C:\Users\raffaele.balzani\Downloads\strategy-coparator-lorenzomalferrari-master\bin\Debug\netcoreapp2.0\csharp.dll
+C:\Users\raffaele.balzani\Downloads\strategy-coparator-lorenzomalferrari-master\bin\Debug\netcoreapp2.0\csharp.pdb

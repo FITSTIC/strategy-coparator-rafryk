@@ -664,28 +664,33 @@
     ]
   },
   "packageFolders": {
-    "/home/matteo/.nuget/packages/": {},
-    "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\raffaele.balzani\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
+    "restoreSettings": {
+      "hideWarningsAndErrors": true
+    },
     "restore": {
-      "projectUniqueName": "/home/matteo/Scrivania/Comparatore/csharp.csproj",
+      "projectUniqueName": "C:\\Users\\raffaele.balzani\\Downloads\\strategy-coparator-lorenzomalferrari-master\\csharp.csproj",
       "projectName": "csharp",
-      "projectPath": "/home/matteo/Scrivania/Comparatore/csharp.csproj",
-      "packagesPath": "/home/matteo/.nuget/packages/",
-      "outputPath": "/home/matteo/Scrivania/Comparatore/obj/",
+      "projectPath": "C:\\Users\\raffaele.balzani\\Downloads\\strategy-coparator-lorenzomalferrari-master\\csharp.csproj",
+      "packagesPath": "C:\\Users\\raffaele.balzani\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\raffaele.balzani\\Downloads\\strategy-coparator-lorenzomalferrari-master\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/home/matteo/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\raffaele.balzani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
